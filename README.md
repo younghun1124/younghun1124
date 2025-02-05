@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ---
 
 ### 📌 My Projects  
-🚀 [future-package](https://future-package-web.vercel.app/)
+🚀 [future-package](https://future-package-web.vercel.app/)  
 💡 [Project 2 Name](https://github.com/younghun1124/project2)  
 🔧 [Project 3 Name](https://github.com/younghun1124/project3)  
 
