@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
-
 ---
 
 ### 📌 My Projects  
@@ -55,18 +54,17 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=younghun1124&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=younghun1124&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-### 🏆 Algorithm & Problem Solving  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyh112400)](https://solved.ac/jyh112400/)
-[baekjoon](https://github.com/younghun1124/baekjoon))
+### 🏆 Algorithm & Problem Solving 
+[PS repository](https://github.com/younghun1124/baekjoon)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyh112400)](https://solved.ac/jyh112400/)  
 ---
 
 ### 📫 Connect with Me  
 - 📧 Email: younghun4218@gmail.com  
-- 🌐 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/%EC%98%81%ED%9B%88-%EC%A0%95-705844210/)  
-- 🌍 Personal Website: [yourwebsite.com](https://yourwebsite.com)  
+- 🌐 LinkedIn: [정영훈](https://www.linkedin.com/in/%EC%98%81%ED%9B%88-%EC%A0%95-705844210/)  
+- 🌍 Personal Website: [yourwebsite.com](https://yourwebsite.com)
 
 ---
 
