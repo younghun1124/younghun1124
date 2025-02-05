@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 - 💻 Passionate about **software development, problem-solving, and system design**
 - 🏢 Open to **startups, entrepreneurship, and career opportunities**
 - 🎯 Interested in **AI, Web Development, and Product Design**
-- 🎳 In my free time, I enjoy **movie making, guitar, and exploring new tech**
+- 🎳 In my free time, I enjoy **[![movie making](https://img.shields.io/badge/movie%20making-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqx4E4sLEkUaO-g46rfTLaw)
+, guitar, and exploring new tech**
+- https://www.youtube.com/channel/UCqx4E4sLEkUaO-g46rfTLaw
 
 ---
 
