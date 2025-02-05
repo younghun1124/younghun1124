@@ -60,12 +60,12 @@ Here are some ideas to get you started:
 
 ### 🏆 Algorithm & Problem Solving  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyh112400)](https://solved.ac/jyh112400/)
-
+[baekjoon](https://github.com/younghun1124/baekjoon))
 ---
 
 ### 📫 Connect with Me  
-- 📧 Email: your.email@example.com  
-- 🌐 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)  
+- 📧 Email: younghun4218@gmail.com  
+- 🌐 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/%EC%98%81%ED%9B%88-%EC%A0%95-705844210/)  
 - 🌍 Personal Website: [yourwebsite.com](https://yourwebsite.com)  
 
 ---
