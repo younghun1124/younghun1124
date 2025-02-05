@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 ---
 
 ### 🔍 About Me
-- 🎓 Studying **Computer Science** at **Sookmyung Women's University**
+- 🎓 Studying **Computer Science** at **Seoul National University of Science and Technology**
 - 💻 Passionate about **software development, problem-solving, and system design**
 - 🏢 Open to **startups, entrepreneurship, and career opportunities**
 - 🎯 Interested in **AI, Web Development, and Product Design**
-- 🎳 In my free time, I enjoy **bowling, sports, and exploring new tech**
+- 🎳 In my free time, I enjoy **movie making, guitar, and exploring new tech**
 
 ---
 
@@ -46,22 +46,21 @@ Here are some ideas to get you started:
 ---
 
 ### 📌 My Projects  
-🚀 [Project 1 Name](https://github.com/yourusername/project1)  
-💡 [Project 2 Name](https://github.com/yourusername/project2)  
-🔧 [Project 3 Name](https://github.com/yourusername/project3)  
+🚀 [Project 1 Name](https://github.com/younghun1124/project1)  
+💡 [Project 2 Name](https://github.com/younghun1124/project2)  
+🔧 [Project 3 Name](https://github.com/younghun1124/project3)  
 
 ---
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=younghun1124&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=younghun1124&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ### 🏆 Algorithm & Problem Solving  
-- **Baekjoon Tier:** ![Baekjoon](https://img.shields.io/badge/Gold_IV-FFD700?style=flat-square&logo=baekjoon&logoColor=white)  
-- **Solved.ac Profile:** [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyh112400)](https://solved.ac/jyh112400/)
-- 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyh112400)](https://solved.ac/jyh112400/)
+
 ---
 
 ### 📫 Connect with Me  
@@ -71,7 +70,7 @@ Here are some ideas to get you started:
 
 ---
 
-⭐ **Fun Fact:** _"Even the same situation can feel like good luck depending on how you perceive it!"_ 🍀  
+⭐ **Fun Fact:** _"Even the same situation can feel like good luck depending on how you perceive it!"_ 🍀 
 
 
 
