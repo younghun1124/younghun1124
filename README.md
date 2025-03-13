@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 ---
 
 ### 🔍 About Me
-- 🎓 Studying **Computer Science** at **Seoul National University of Science and Technology**
-- 💻 Passionate about **software development, problem-solving, and system design**
+- 🎓 Majoring in **Computer Science** at **Seoul National University of Science and Technology**
+- 💻 Passionate about **software development and problem-solving**
 - 🏢 Open to **startups, entrepreneurship, and career opportunities**
 - 🎯 Interested in **AI, Web Development, and Product Design**
 - 🎳 In my free time, I enjoy **[![filmmaking](https://img.shields.io/badge/filmmaking-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqx4E4sLEkUaO-g46rfTLaw)
-, guitar, and exploring new tech**
+, playing the guitar, and exploring new tech**
 - https://www.youtube.com/channel/UCqx4E4sLEkUaO-g46rfTLaw
 
 ---
@@ -73,11 +73,6 @@ Here are some ideas to get you started:
 ### 📫 Connect with Me  
 - 📧 Email: younghun4218@gmail.com  
 - 🌐 LinkedIn: [정영훈](https://www.linkedin.com/in/%EC%98%81%ED%9B%88-%EC%A0%95-705844210/)  
-- 🌍 Personal Website: [yourwebsite.com](https://yourwebsite.com)
+<!-- - 🌍 Personal Website: [yourwebsite.com](https://yourwebsite.com) -->
 
 ---
-
-⭐ **Fun Fact:** _"Even the same situation can feel like good luck depending on how you perceive it!"_ 🍀 
-
-
-
