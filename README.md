@@ -52,12 +52,12 @@ Here are some ideas to get you started:
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ---
-
+<!--
 ### 📌 My Projects  
 🚀 [future-package](https://future-package-web.vercel.app/)  
 💡 [Project 2 Name](https://github.com/younghun1124/project2)  
 🔧 [Project 3 Name](https://github.com/younghun1124/project3)  
-
+-->
 ---
 <!--
 ### 📊 GitHub Stats  
