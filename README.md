@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 - 🎯 Interested in **AI, Web Development, and Product Design**
 - 🎳 In my free time, I enjoy **[![filmmaking](https://img.shields.io/badge/filmmaking-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqx4E4sLEkUaO-g46rfTLaw)
   , and exploring new tech**
-- https://www.youtube.com/channel/UCqx4E4sLEkUaO-g46rfTLaw
 
 ---
 
