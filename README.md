@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🎓 Majoring in **Computer Science** at **Seoul National University of Science and Technology**
 - 💻 Passionate about **software development and problem-solving**
 - 🏢 Open to **startups, entrepreneurship, and career opportunities**
-- 🎯 Interested in **AI, Web Development, and Product Design**
+- 🎯 Interested in **Web Development, AI, and Branding**
 - 🎳 In my free time, I enjoy **[![filmmaking](https://img.shields.io/badge/filmmaking-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqx4E4sLEkUaO-g46rfTLaw)
   , and exploring new tech**
 
